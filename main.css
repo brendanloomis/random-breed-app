@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #A2C7E5;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+}
+
+.wrapper {
+    margin: auto;
+    width: 500px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size: 19px;
+}
+
+.hidden {
+    display: none;
+}
+
+.img-results {
+    max-width: 500px;
+}
